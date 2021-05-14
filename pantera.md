@@ -110,7 +110,6 @@ If you've already started implementing your project or it is part of a larger re
 | 4. | Substrate chain | Modules X, Y & Z of our custom chain will interact in such a wa once we have date form X  to Y, and x (for example) write the data on x chain, y will received it automaticly, and then y analyzed the data. will show the result to z, based on the final result, Z will show yes or no to X, and give the benefits or punishement.  |  
 | 5. | Docker | We will provide a dockerfile to demonstrate the full functionality of our chain |
 
------------------------------------link profile 
 
 
 ### Milestone 2 Example — Implement Substrate Modules
