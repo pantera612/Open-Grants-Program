@@ -133,6 +133,8 @@ If you've already started implementing your project or it is part of a larger re
 | 5. | Docker | We will provide a dockerfile to demonstrate the full functionality of our chain |
 
 
+https://github.com/pantera612/pantera-project-UI/blob/main/Technical%20documents.docx
+
 ...
 ### Milestone 3 Example — Additional features
 
